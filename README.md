@@ -18,6 +18,7 @@ Again, I chose to focus on the continuous variables identified as potential regr
 - The assumption of no endoeneity was not violated. 
 - Following Central Limit Theorem, the sample size of the data is large enough to assume Normality.
 - Following the transformation of 'Price', the scatter graphs (shown below) visually imply the homescedasticity assumption holds. 
+
   ![image](https://user-images.githubusercontent.com/93582626/155854909-9a4404b9-217a-4020-a7cb-4b8b25a66dee.png)
 - Including the intercept in the regression accomodates the zero mean assumption. 
 - No reason for the data to have cross-sectional correlation. 
