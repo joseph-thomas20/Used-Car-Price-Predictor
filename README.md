@@ -1,5 +1,5 @@
 # Used-Car-Price-Predictor
-Performed a Linear Regression on a used car dataset, after executing data cleaning and processing, to predict the price of used cars for sale.
+Performed a Linear Regression on a used car dataset, after executing data cleaning and processing, to predict the price of used cars for sale. (Coding executed with Python3 on Jupyter Notebook)
 
 This exercise is an application of the knowledge acquired whilst enrolled in Udemy's 'The Data Science Course 2022: The Comlete Data Science Bootcamp'. 
 
